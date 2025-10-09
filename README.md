@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zyx_2012+%F0%9F%8C%9F;Front-end+Dev+%26+Game+Maker;Love+Code%2C+Physics+and+Chaos+Theory" alt="Typing SVG" />
 </h1>
 
-<!-- 动态星空背景 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/animated-wave.svg" width="100%" height="150px">
-</p>
-
 <!-- 简介卡片 -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyx-2012&theme=radical" alt="profile summary"/>
