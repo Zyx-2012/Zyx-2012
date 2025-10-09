@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://blog.zyx-2012.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=己所不欲，勿施于人.;print(\"hello world\");a(href=\"https://blog.zyx-2012.cn\") 点击打开我的博客;一个初中牲/OIer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=己所不欲，勿施于人.;print(\'hello world\');a(href=\'https://blog.zyx-2012.cn\') 点击打开我的博客;一个初中牲/OIer">
   </a>
 </h1>
 
