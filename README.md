@@ -1,62 +1,82 @@
-<!-- 动态打字效果 -->
+<!-- 动态标题 -->
 <h1 align="center">
-  <a href="https://blog.zyx-2012.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=己所不欲，勿施于人.;print(\'hello world\');a(href=\'https://blog.zyx-2012.cn\') 点击打开我的博客;一个初中牲/OIer">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zyx_2012+%F0%9F%8C%9F;Front-end+Dev+%26+Game+Maker;Love+Code%2C+Physics+and+Chaos+Theory" alt="Typing SVG" />
 </h1>
 
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
-<br>
+<!-- 动态星空背景 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/animated-wave.svg" width="100%" height="150px">
+</p>
 
-<!-- 个人资料徽标 -->
+<!-- 简介卡片 -->
 <div align="center">
-  <a href="https://blog.zyx-2012.cn/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
-  <a href="https://space.bilibili.com/3546582964243214"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyx-2012&theme=radical" alt="profile summary"/>
+</div>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
+---
 
-# 🙋 Hello
+### 🧠 关于我
+> 编程是混沌的语言，逻辑是它的秩序。  
+> I'm a curious middle-schooler who loves **building, breaking, and rebuilding** things.
 
-欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
 
-但是记学习真的是一个很棒的习惯 💪，每次一次学习别人的东西转变成为自己的，都是一次成长，了解为什么要这么做，为什么不这么做 ⚡
+- 🪐 我的博客：[zyx-2012.cn](https://blog.zyx-2012.cn) ｜ [zyx-2012.xyz](https://blog.zyx-2012.xyz)
 
-每周我都会尽量进行更新 ☁️，如果没更的话，可能是我忘了，也可能是我在钻研某个东西的时候太入迷了 ~~肯定又熬夜了~~
+---
 
-~~同学们不要学我，老是熬夜会长痘~~
+### 🛠️ 技术栈
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,hexo,python,cpp,blender,git,vscode&theme=dark" />
+</p>
 
-💪 正在学习:
+---
 
-&emsp;&emsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![Vuejs](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+### 📊 数据看板
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyx-2012&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyx-2012&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
 
-🧠 计划学习:
+---
 
-&emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+### 🎮 动态乐趣区
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyx-2012&theme=tokyo-night&hide_border=true&custom_title=Zyx_2012's+Coding+Journey" alt="activity graph">
+</p>
 
-🧰 常用的工具:
+---
 
-&emsp;&emsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+### 💫 小玩意
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=Zyx-2012&limit=5&theme=tokyo-night&combine_all_yearly_contributions=true" width="400">
+    </td>
+    <td align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="400">
+    </td>
+  </tr>
+</table>
 
-<div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
+---
 
-该md改编自 [anzhiyu-c](https://github.com/anzhiyu-c/anzhiyu-c/blob/main/README.md)
+### 🪄 一点趣味动画
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
+
+---
+
+### 📫 联系我
+<p align="center">
+  <a href="https://github.com/Zyx-2012"><img src="https://img.shields.io/badge/GitHub-Zyx--2012-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://blog.zyx-2012.cn"><img src="https://img.shields.io/badge/Blog-zyx--2012.cn-blue?style=for-the-badge&logo=hexo"></a>
+  <a href="mailto:1051270035@qq.com"><img src="https://img.shields.io/badge/Email-zyx2012%40example.com-orange?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zyx-2012&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+</p>
+
