@@ -1,6 +1,8 @@
 <!-- 动态标题 -->
 <h1 align="center">
+  <a href="https://blog.zyx-2012.cn">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zyx_2012+%F0%9F%8C%9F;Front-end+Dev+%26+Game+Maker;Love+Code%2C+Physics+and+Chaos+Theory" alt="Typing SVG" />
+  </a>
 </h1>
 
 <!-- 简介卡片 -->
