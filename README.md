@@ -16,8 +16,7 @@
 > 编程是混沌的语言，逻辑是它的秩序。  
 > I'm a curious middle-schooler who loves **building, breaking, and rebuilding** things.
 
-
-- 🪐 我的博客：[zyx-2012.cn](https://blog.zyx-2012.cn) ｜ [zyx-2012.xyz](https://blog.zyx-2012.xyz)
+- 我的博客：[blog.zyx-2012.cn](https://blog.zyx-2012.cn)
 
 ---
 
