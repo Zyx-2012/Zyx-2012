@@ -22,7 +22,7 @@
 
 ### 🛠️ 技术栈
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,hexo,python,cpp,blender,git,vscode&theme=dark" />
+  <img src="[https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,hexo,python,cpp,blender,git,vscode&theme=dark](https://skillicons.dev/icons?i=html,css,js,cpp,python,php,vue,nodejs,tailwind,git,mysql,vscode&theme=dark)" />
 </p>
 
 ---
