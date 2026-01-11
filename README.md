@@ -66,7 +66,9 @@
 ### 📫 联系我
 <p align="center">
   <a href="https://github.com/Zyx-2012"><img src="https://img.shields.io/badge/GitHub-Zyx--2012-181717?style=for-the-badge&logo=github"></a>
+  <span>   </span>
   <a href="https://blog.zyx-2012.cn"><img src="https://img.shields.io/badge/Blog-zyx--2012.cn-blue?style=for-the-badge&logo=hexo"></a>
+  <span>   </span>
   <a href="mailto:1051270035@qq.com"><img src="https://img.shields.io/badge/Email-zyx2012%40example.com-orange?style=for-the-badge&logo=gmail"></a>
 </p>
 
