@@ -77,8 +77,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zyx-2012&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
-
-
-
-
-以上是我github中的个人README.md（ github.com/Zyx-2012/Zyx-2012/README.md ），帮我改得更加科技一些，谢谢！
