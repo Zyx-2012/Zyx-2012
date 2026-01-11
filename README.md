@@ -1,70 +1,84 @@
+<!-- 动态标题 -->
 <h1 align="center">
-  <a href="https://blog.zyx-2012.cn">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=System.connect(User.Zyx_2012);Loading+Chaos+Theory+Modules...;Front-end+Dev+%26+Game+Architect;%3E+Ready+to+Code." alt="Typing SVG" />
-  </a>
+  <a href="https://blog.zyx-2012.cn">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zyx_2012+%F0%9F%8C%9F;Front-end+Dev+%26+Game+Maker;Love+Code%2C+Physics+and+Chaos+Theory" alt="Typing SVG" />
+  </a>
 </h1>
 
+<!-- 简介卡片 -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyx-2012&theme=tokyonight" alt="profile summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyx-2012&theme=radical" alt="profile summary"/>
 </div>
 
 ---
 
-### 📂 System Kernel / 关于内核
-> **"Order arises from chaos."** > 
-> 正在 0 与 1 的熵增中寻找完美的算法。我是一名热爱**构建与重构**的中学生开发者。
+### 🧠 关于我
+> 编程是混沌的语言，逻辑是它的秩序。  
+> I'm a curious middle-schooler who loves **building, breaking, and rebuilding** things.
 
-- 📡 **Neural Link / 博客**: [blog.zyx-2012.cn](https://blog.zyx-2012.cn)
-- 🔭 **Research / 兴趣领域**: 物理引擎 | 混沌系统 | 响应式架构
-- ⚡ **Status / 当前状态**: 编译中...
+- 我的博客：[blog.zyx-2012.cn](https://blog.zyx-2012.cn)
 
 ---
 
-### 🛠️ Weaponry / 技术武库
+### 🛠️ 技术栈
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,php,vue,nodejs,tailwind,git,mysql,vscode,threejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,php,vue,nodejs,tailwind,git,mysql,vscode&theme=dark" />
 </p>
 
 ---
 
-### 📊 Telemetry Data / 遥测数据
+### 📊 数据看板
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zyx-2012&show_icons=true&theme=transparent&title_color=00C2FF&icon_color=00C2FF&text_color=9f9f9f&hide_border=true&cache_seconds=86400" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyx-2012&layout=compact&theme=transparent&title_color=00C2FF&icon_color=00C2FF&text_color=9f9f9f&hide_border=true&cache_seconds=86400" height="160">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyx-2012&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyx-2012&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyx-2012&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
 
-### 🧬 Contribution Graph / 熵增轨迹
+### 🎮 动态乐趣区
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyx-2012&theme=tokyo-night&hide_border=true&custom_title=Zyx_2012's+Coding+Journey" alt="activity graph">
+</p>
+
+---
+
+### 💫 小玩意
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=Zyx-2012&limit=5&theme=tokyo-night&combine_all_yearly_contributions=true" width="400">
+    </td>
+    <td align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="400">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🪄 一点趣味动画
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
 
 ---
 
-### 🛰️ Uplink / 建立连接
+### 📫 联系我
 <p align="center">
-  <a href="https://github.com/Zyx-2012">
-    <img src="https://img.shields.io/badge/GITHUB-NET-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://blog.zyx-2012.cn">
-    <img src="https://img.shields.io/badge/BLOG-SIGNAL-00C2FF?style=for-the-badge&logo=hexo&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:1051270035@qq.com">
-    <img src="https://img.shields.io/badge/MAIL-SEND-FFCA28?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
+  <a href="https://github.com/Zyx-2012"><img src="https://img.shields.io/badge/GitHub-Zyx--2012-181717?style=for-the-badge&logo=github"></a>
+  <span>   </span>
+  <a href="https://blog.zyx-2012.cn"><img src="https://img.shields.io/badge/Blog-zyx--2012.cn-blue?style=for-the-badge&logo=hexo"></a>
+  <span>   </span>
+  <a href="mailto:1051270035@qq.com"><img src="https://img.shields.io/badge/Email-zyx2012%40example.com-orange?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zyx-2012&label=VISITORS&color=00C2FF&style=flat-square" alt="Profile Views" />
-</p>
+---
 
 <p align="center">
-  <code>Console.log("Process finished with exit code 0");</code>
+  <img src="https://komarev.com/ghpvc/?username=Zyx-2012&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
+
+
+
+
+以上是我github中的个人README.md（ github.com/Zyx-2012/Zyx-2012/README.md ），帮我改得更加科技一些，谢谢！
