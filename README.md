@@ -69,7 +69,7 @@
   <span>   </span>
   <a href="https://blog.zyx-2012.cn"><img src="https://img.shields.io/badge/Blog-zyx--2012.cn-blue?style=for-the-badge&logo=hexo"></a>
   <span>   </span>
-  <a href="mailto:1051270035@qq.com"><img src="https://img.shields.io/badge/Email-1051270035%40qq.com-orange?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:zyx_2012_mail@qq.com"><img src="https://img.shields.io/badge/Email-zyx_2012_mail%40qq.com-orange?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
